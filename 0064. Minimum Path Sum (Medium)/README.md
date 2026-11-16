@@ -46,5 +46,5 @@ After processing the entire grid, `grid[m-1][n-1]` contains the minimum path sum
 
 ## Complexity
 
-* **Time:** `O(m * n)`
-* **Space:** `O(1)` — the input `grid` is modified in place.
+* **Time:** $O(m * n)$
+* **Space:** $O(1)$ — the input `grid` is modified in place.

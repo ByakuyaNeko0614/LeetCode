@@ -35,5 +35,5 @@ After going through the whole string, if `depth > 0`, there are still unmatched 
 
 ## Complexity
 
-* Time: `O(n)`
-* Space: `O(1)`
+* Time: $O(n)$
+* Space: $O(1)$

@@ -51,5 +51,5 @@ Finally, when the loop terminates, `ans` contains the total trapped water.
 
 ## Complexity
 
-* **Time:** `O(n)`
-* **Space:** `O(1)`
+* **Time:** $O(n)$
+* **Space:** $O(1)$

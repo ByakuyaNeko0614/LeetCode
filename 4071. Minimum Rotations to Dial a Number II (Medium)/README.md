@@ -98,5 +98,5 @@ This reduces the solution from `O(n²)` to `O(n)`.
 
 ## Complexity
 
-* Time: `O(n)`
-* Space: `O(1)`
+* Time: $O(n)$
+* Space: $O(1)$
